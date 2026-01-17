@@ -2,16 +2,18 @@
 
 <template>
   <main class="container">
-    <Hero />
+    <HomePage />
     <Timeline />
-  </main>
-  
+    <Projects />
+    <FooterComponent />
+  </main>  
 </template>
 
 <script setup>
-  import Hero from './components/Hero.vue'
+  import HomePage from './components/HomePage.vue'
   import Timeline from './components/Timeline.vue'
-
+  import Projects from './components/Projects.vue'
+  import FooterComponent from './components/Footer.vue'
 </script>
 
 <style scoped>
