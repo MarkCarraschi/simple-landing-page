@@ -34,7 +34,7 @@
             title: "Landing Page Vue",
             description: "Um portifólio pessoal construído em Vue 3 e Bootstrap",
             link: '#'
-        },
+        }/*,
         
         {
             title: "Landing Page Vue",
@@ -50,6 +50,6 @@
             title: "Refatoração de PDV",
             description: "Sol. feita em conjunto com o intuito de refatorar um código legado",
             link: '#'
-        },
+        },*/
     ]
 </script>
